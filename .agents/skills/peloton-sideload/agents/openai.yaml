@@ -1,0 +1,4 @@
+interface:
+  display_name: "Peloton Sideload"
+  short_description: "Guide Peloton ADB sideload setup."
+  default_prompt: "Use this skill to walk a user through Peloton developer mode, ADB pairing, app installation through F-Droid or Aurora Store, Google Services limitations, and a no-swipe favorites launcher."
