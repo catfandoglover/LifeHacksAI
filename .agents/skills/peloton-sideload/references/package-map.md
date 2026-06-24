@@ -2,6 +2,10 @@
 
 Use these package IDs and install routes when sideloading common apps onto a Peloton or similar Android tablet. Verify current versions in Aurora/F-Droid at install time.
 
+## Default Favorites Set
+
+When the user asks for the same setup from the original Peloton workflow, install and pin these favorites when available: SmartTube, Netflix, Hulu, Disney+, Spotify, HBO Max/Max, Prime Video, Kindle, YUTorah, Fennec/Firefox, Aurora Store, and Discreet Launcher. Add X and Activity Launcher only when requested.
+
 ## F-Droid Direct Installs
 
 | App | Package | Helper key | Notes |
