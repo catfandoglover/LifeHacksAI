@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mac Disk Cleanup"
+  short_description: "Find what fills a Mac disk and free space safely."
+  default_prompt: "Use this skill to find what is taking up space on this Mac, compare it with my recent usage, and clear space: caches first, stale worktrees and old run outputs by rule (after backing up unpushed work), and ask me before anything that cannot be rebuilt."
